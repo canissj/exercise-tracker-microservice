@@ -2,6 +2,15 @@
 
 #### A microservice project, part of Free Code Camp's curriculum
 
+### Try yourself
+Try online on : https://decisive-honey-zydeco.glitch.me
+
+Or clone the project and follow these steps: 
+
+1- To get a free MongoDB host you can register on Mongo Atlas https://www.mongodb.com/cloud/atlas and follow the get started steps. 
+
+2- Create a .env file and set the variable MLAB_URI to the MongoDB uri host.
+
 ### User Stories
 
 1. I can create a user by posting form data username to /api/exercise/new-user and returned will be an object with username and _id.
